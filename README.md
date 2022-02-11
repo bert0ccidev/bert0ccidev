@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @c4ipir4boy
 - 👀 I’m interested in Technology and Health
 - 🌱 I’m currently learning WebDevlp
-- 💞️ I’m looking to collaborate on Simple projects to increase my portfolio
+- 💞️ I’m looking to collaborate on Simple projects to increase my knologe and portfolio, or jobs at my level.
 - 📫 How to reach me: Dm on insta :p https://www.instagram.com/beirut.not.god/
 
 <!---
