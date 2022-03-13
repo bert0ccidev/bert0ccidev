@@ -1,4 +1,4 @@
-[![c4ipir4boy's GitHub stats](https://github-readme-stats.vercel.app/api?username=c4ipir4boy)](https://github.com/c4ipir4boy/github-readme-stats&theme=gruvbox)
+[![c4ipir4boy's GitHub stats](https://github-readme-stats.vercel.app/api?username=c4ipir4boy)](https://github.com/c4ipir4boy/github-readme-statsa&show_icons=true&theme=gruvbox)
 ![Snake animation](https://github.com/devemdobro/devemdobro/blob/output/github-contribution-grid-snake.svg)
 
 <!--
