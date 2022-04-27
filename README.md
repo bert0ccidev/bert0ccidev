@@ -1,6 +1,6 @@
 <div>
   <a href="https://github.com/c4ipir4boy">  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bert0ccidevy&show_icons=true&theme=jolly"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bert0ccidev&show_icons=true&theme=jolly"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bert0ccidev&theme=jolly&langs_count=6&layout=compact"/>
 </div>
 <div><br>
